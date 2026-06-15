@@ -1,0 +1,6 @@
+{
+  "name": "Vivo T2x FF One-Tap Configurator",
+  "description": "An interactive tool and AI generator to optimize Free Fire sensitivity, DPI, HUD layouts, and onetap dragging techniques for Vivo T2x 5G.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
